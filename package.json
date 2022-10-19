@@ -1,0 +1,26 @@
+{
+  "name": "web3story",
+  "version": "1.0.0",
+  "description": "Web3Story site",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhood/web3story.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhood/web3story/issues"
+  },
+  "homepage": "https://github.com/jhood/web3story#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.18",
+    "postcss-cli": "^10.0.0",
+    "postcss-import": "^15.0.0",
+    "tailwindcss": "^3.2.0"
+  }
+}

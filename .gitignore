@@ -1,0 +1,25 @@
+
+
+.bundle
+.sass-cache/
+
+
+# Generated files by Hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+
+hugo_stats.json
+/.hugo_build.lock
+
+
+# NPM
+node_modules/
+npm-debug.log
+
+
+# OS Stuff
+._*
+Thumbs.db
+.DS_Store
+.Trashes

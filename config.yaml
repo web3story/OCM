@@ -1,0 +1,11 @@
+baseURL: 'http://web3story.jhood.com'
+languageCode: 'en-us'
+title: 'Web3Story'
+
+Params:
+    - copyright: 'Web3 Story'
+
+# markup:
+#     goldmark:
+#         renderer:
+#             unsafe: true

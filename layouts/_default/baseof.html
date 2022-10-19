@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ .Language.Lang }}">
+<head>
+    {{ partial "head.html" . }}
+</head>
+<body>
+    {{ partial "banner.html" . }}
+    
+    {{ block "main" . }} {{ end }}
+    
+    {{ partial "footer.html" . }}
+
+    {{ partial "modal.html" . }}
+</body>
+<script src="/js/modal.js"></script>
+</html>

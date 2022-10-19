@@ -1,0 +1,9 @@
+<div class="cardblock">
+{{ range (where .Site.Pages "Section" "dao") }}
+    {{ range .Pages.ByWeight }}
+
+        {{ .Render "list" }}
+
+    {{ end }}
+{{ end }}
+</div>

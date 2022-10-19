@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    @apply bg-[url('/img/ocm-background.png')] bg-repeat;
+    @apply font-light text-sm text-slate-900;
+    @apply font-opensans;
+    @apply p-5;
+}
+
+.cardblock {
+    @apply p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-5;
+}
+
+.card {
+    @apply bg-purple-600;
+    @apply text-white;
+    @apply block p-6 max-w-sm rounded-lg border border-gray-600 shadow-lg;
+    @apply dark:bg-gray-800 dark:border-gray-700 hover:bg-purple-300 dark:hover:bg-gray-700;
+    @apply text-center;
+
+}
+
+.modal-window {
+    @apply absolute top-5 bottom-5 left-5 right-5 rounded-lg;
+    @apply p-10;
+    @apply bg-purple-300;
+}
+
+.modal-content p {
+    @apply pb-4;
+}
+
+.ocm-footer {
+    @apply bg-purple-900 text-sm pl-5 pr-5 pt-5 pb-5;
+}
+
+.ocm-banner {
+    @apply flex items-center bg-purple-100 p-3;
+}
+
+
