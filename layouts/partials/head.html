@@ -8,12 +8,7 @@
 
 {{ $styles := resources.Get "css/main.css" | postCSS }}
 
-<!-- {{/* if .Site.IsServer */}} -->
-<link rel="stylesheet" href="{{ $styles.RelPermalink }}"/>
-<!-- {{/* else */}} -->
-  <!-- {{/* $styles := $styles | minify | fingerprint | resources.PostProcess */}} -->
-  <!-- <link rel="zstylesheet" href="{{/* $styles.RelPermalink */}}" integrity="{{/* $styles.Data.Integrity */}}"/> -->
-<!-- {{/* end */}} -->
+<link rel="stylesheet" href="{{ $styles.Permalink }}"/>
 
 <!-- fontawesome fonts -->
 <script src="https://kit.fontawesome.com/e1e8d371ca.js" crossorigin="anonymous"></script>
