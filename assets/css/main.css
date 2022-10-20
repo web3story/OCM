@@ -36,11 +36,12 @@ hr {
 
 .modal-window {
     @apply absolute top-5 bottom-5 left-5 right-5 rounded-lg;
+    @apply overflow-y-auto;
     @apply p-10;
     @apply bg-purple-300;
 }
 
-.modal-content p {
+.modal-content {
     @apply pb-4;
 }
 
@@ -52,5 +53,7 @@ hr {
     @apply flex items-center bg-purple-100 p-3;
     @apply font-oswald text-2xl font-bold;
 }
+
+
 
 
