@@ -3,11 +3,23 @@
 @tailwind utilities;
 
 
+
+
 body {
-    @apply bg-[url('/img/ocm-background.png')] bg-repeat;
+    @apply bg-repeat;
     @apply font-light text-sm text-slate-900;
     @apply font-opensans;
     @apply p-5;
+}
+
+hr {
+    @apply my-4 mx-auto h-1 rounded bg-gray-300;
+}
+
+.section-header {
+    @apply font-oswald text-2xl font-bold;
+    @apply text-center;
+    @apply pt-5;
 }
 
 .cardblock {
@@ -15,8 +27,7 @@ body {
 }
 
 .card {
-    @apply bg-purple-600;
-    @apply text-white;
+    @apply bg-purple-600 text-white;
     @apply block p-6 max-w-sm rounded-lg border border-gray-600 shadow-lg;
     @apply dark:bg-gray-800 dark:border-gray-700 hover:bg-purple-300 dark:hover:bg-gray-700;
     @apply text-center;
@@ -33,12 +44,13 @@ body {
     @apply pb-4;
 }
 
-.ocm-footer {
+.footer {
     @apply bg-purple-900 text-sm pl-5 pr-5 pt-5 pb-5;
 }
 
-.ocm-banner {
+.banner {
     @apply flex items-center bg-purple-100 p-3;
+    @apply font-oswald text-2xl font-bold;
 }
 
 

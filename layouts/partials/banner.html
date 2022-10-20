@@ -1,10 +1,12 @@
 
+{{ $data := index site.Data }}
+
 <!-- Page Header -->
 <header class="intro-header">
-    <div class="ocm-banner">
-        <img src="{{ "img/iambrad1.jpg" | absURL }}" width="100px" height="100px">
+    <div class="banner">
+        <img src="{{ "img/logo.jpg" | absURL }}" width="100px" height="100px">
         <div class="flex-1 text-center font-bold text-xl">
-            OnChain Monkey Intro
+            {{ $data.defaults.value.banner }}
         </div>
     </div>
 </header>

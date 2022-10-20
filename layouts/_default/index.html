@@ -1,12 +1,14 @@
 {{ define "main" }}
 
-OCM Mission
-{{ partial "mission.html" . }}
+{{ $data := index site.Data }}
+
+<div class="section-header">{{ $data.defaults.value.section1 }}</div>
+{{ partial "section1.html" . }}
 <hr>
-OCM Mechanics
-{{ partial "mechanics.html" . }}
+<div class="section-header">{{ $data.defaults.value.section2 }}</div>
+{{ partial "section2.html" . }}
 <hr>
-OCM DAO word
-{{ partial "dao.html" . }}
+<div class="section-header">{{ $data.defaults.value.section3 }}</div>
+{{ partial "section3.html" . }}
 
 {{ end }}

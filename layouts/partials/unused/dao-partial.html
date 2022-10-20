@@ -1,7 +1,0 @@
-{{ range (where .Site.Pages "Section" "dao") }}
-    {{ range .Pages.ByWeight }}
-
-        {{ partial "test-list.html" . }}
-
-    {{ end }}
-{{ end }}

@@ -14,4 +14,8 @@ document.querySelectorAll(".card").forEach(c=>{
 
 document.getElementById("modal-close").addEventListener("click",(e)=>{
     document.getElementById("modal-window").classList.add("hidden");
+
+    // document.querySelectorAll('iframe').each(function(){
+    //     this.contentWindow.postMessage('{"event":"command","func":"stopVideo","args":""}', '*')
+    //   });
 })

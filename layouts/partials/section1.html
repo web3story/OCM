@@ -1,6 +1,6 @@
 
 <div class="cardblock">
-    {{ range (where .Site.Pages "Section" "mission") }}
+    {{ range (where .Site.Pages "Section" "section1") }}
         {{ range .Pages.ByWeight }}
 
             {{ .Render "list" }}
