@@ -12,7 +12,9 @@ That experience brought home for me how tenuous, fragile and precious life can b
 \
 \
 What this incident showed me is that if we aren’t able to come up with new ways to address exponential problems, we are hurtling towards catastrophe. We need fundamental change in the structure of incentives for social benefit and future generations, like my daughter.
-
+\
+\
 At Nfinita (company soon to be named MetaGood), we want to find a way to address those problems. We have the belief that we can use crypto to incentivize doing good.
-
+\
+\
 In 2018, Bill Tai was able to do real world good with an NFT named Honu Kitty. This year, our team had been working on a bunch of different NFT ideas around animals — birds, bears, robots animals, and in a bunch of different styles. We wanted to create an NFT collection as a platform to incentivize doing good. For this collection to work, it had to stand out and be unique. Yet we also wanted to fit within the 10k PFP collection format that people understood and appreciated. But there have been so many already, and many good ones too! So how was this possible?
