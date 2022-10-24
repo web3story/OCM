@@ -2,7 +2,7 @@
 title: "OnChain Monkey Values (1minread)"
 date: 2022-10-06
 section: mission
-weight: 4
+weight: 3
 ---
 
 
