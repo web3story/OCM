@@ -1,5 +1,5 @@
 ---
-title: "What's With The Bananas?"
+title: "What's With The Bananas? (2minread)"
 date: 2022-10-06
 section: mechanics
 weight: 5
