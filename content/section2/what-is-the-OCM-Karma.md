@@ -22,22 +22,12 @@ OCM Karma collection: https://onchainmonkey.com/collection/ocm-karma
 What are the benefits for holding a Karma?
 \
 \
-Same incredible benefits as OCM Genesis holders, including: 
+Same incredible benefits as OCM Genesis holders, including:
 \
 \
-Membership into the OnChainMonkey community, with a strong network of successful founders and investors in web2 and web3.
-\
-\
-Governance in DAO, funding web3 and community projects.
-\
-\
-Equal vote in the OCM DAO as an OCM Genesis holder.
-\
-\
-Access to our Banana ecosystem that benefits holders.
-\
-\
-Virtual and IRL community events - like private events with our notable community. Past events included those with Woody Harrelson, Owen Wilson, Charlie Lee, Deepak Chopra.
-\
-\
-Access to the Monkeyverse, and going on Monkey Missions 
+* Membership into the OnChainMonkey community, with a strong network of successful founders and investors in web2 and web3.
+* Governance in DAO, funding web3 and community projects.
+* Equal vote in the OCM DAO as an OCM Genesis holder.
+* Access to our Banana ecosystem that benefits holders.
+* Virtual and IRL community events - like private events with our notable community. Past events included those with Woody Harrelson, Owen Wilson, Charlie Lee, Deepak Chopra.
+* Access to the Monkeyverse, and going on Monkey Missions 
