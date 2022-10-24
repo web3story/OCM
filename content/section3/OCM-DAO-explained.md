@@ -1,5 +1,5 @@
 ---
-title: "OCM DAO Explained"
+title: "OCM DAO In Depth (7minlisten)"
 date: 2022-10-06
 section: dao
 weight: 3
