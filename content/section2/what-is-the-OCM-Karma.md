@@ -1,5 +1,5 @@
 ---
-title: "What is the OCM Karma? (1minread)"
+title: "What is the OCM Karma? (3minread)"
 date: 2022-10-06
 section: mechanics
 weight: 4
