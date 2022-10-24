@@ -21,8 +21,10 @@ RISE is an acronym for the four core values of OnChainMonkey:
 \
 \
 •	Experimentation - we try new things to find better solutions
+<pre>
 \
 \
+</pre>
 ## Our mission is to empower communities to be catalysts for positive collective action.
 
 
