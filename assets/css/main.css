@@ -7,7 +7,7 @@
 
 body {
     @apply bg-repeat;
-    @apply font-light text-sm text-slate-900;
+    @apply font-medium text-base text-slate-900;
     @apply font-opensans;
     @apply p-5;
 }
