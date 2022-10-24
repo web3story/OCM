@@ -6,9 +6,9 @@ weight: 1
 ---
 
 In November 2020, my wife and I went to the emergency room with our newborn daughter who weighed less than six pounds. Her eyes had turned a canary yellow and jaundice was spreading across her body. We rushed to the ER despite the fact that COVID cases were surging in the area. At the ER, only one parent was allowed to enter, and my wife, tired and sore from giving birth three days earlier, ended up having to wait in the car. At that moment, I felt a terrible knot in my stomach cradling my daughter and listening to her cry.
-
+<br><br>
 That experience brought home for me how tenuous, fragile and precious life can be and how something tiny can become the focal point for your world. It made me realize the responsibility we all share to protect the future of the planet and our society for my daughter. The rise of COVID helped me to see the trouble we are in as a society with exponential problems. This class of problems includes things like ecological collapse, climate change, and global pandemics. Exponential problems have two very distinct phases, in the early phase there’s a very small effect that’s easy to dismiss, especially if there are economic benefits to some people who prefer the status quo. Once the problem starts being felt, it’s often growing so quickly that it’s too late to stop it. Our ways of understanding the world, making decisions, social and economic incentives and how we live are all demonstrably incapable of meeting these challenges.
-
+<br><br>
 What this incident showed me is that if we aren’t able to come up with new ways to address exponential problems, we are hurtling towards catastrophe. We need fundamental change in the structure of incentives for social benefit and future generations, like my daughter.
 
 At Nfinita (company soon to be named MetaGood), we want to find a way to address those problems. We have the belief that we can use crypto to incentivize doing good.
