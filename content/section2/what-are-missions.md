@@ -1,5 +1,5 @@
 ---
-title: "What Are Missions? (2minread)"
+title: "What Are OCM Missions? (2minread)"
 date: 2022-10-06
 section: mechanics
 weight: 6
