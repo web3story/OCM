@@ -1,5 +1,5 @@
 ---
-title: "Making of OnChain Monkey (2minread)"
+title: "Making of OnChain Monkey (2-min-read)"
 date: 2022-10-06
 section: mission
 weight: 1
