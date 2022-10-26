@@ -22,8 +22,7 @@ OCM Karma collection: https://onchainmonkey.com/collection/ocm-karma
 What are the benefits for holding a Karma?
 \
 \
-Same incredible benefits as OCM Genesis holders, including:
-\
+Same incredible benefits as OCM Genesis holders, including
 * Membership into the OnChainMonkey community, with a strong network of successful founders and investors in web2 and web3.
 * Governance in DAO, funding web3 and community projects.
 * Equal vote in the OCM DAO as an OCM Genesis holder.
