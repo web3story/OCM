@@ -1,5 +1,5 @@
 ---
-title: "OnChain Monkey Values (1-min-read)"
+title: "OnChain Monkey Values (1min-read)"
 date: 2022-10-06
 section: mission
 weight: 3
