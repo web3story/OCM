@@ -1,5 +1,5 @@
 ---
-title: "OnChain Monkey Values (1min-read)"
+title: "OnChain Monkey Values (1minread)"
 date: 2022-10-06
 section: mission
 weight: 3
@@ -25,6 +25,6 @@ RISE is an acronym for the four core values of OnChainMonkey:
 ## Our mission is to empower communities to be catalysts for positive collective action.
 \
 \
-! [] (img/risetwitter.png)
+![] (img/risetwitter.png)
 
 
