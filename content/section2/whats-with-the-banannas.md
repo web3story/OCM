@@ -21,7 +21,7 @@ On Twitter by interacting with the OnChainMonkey Twitter account.
 \
 \
 What can I use Bananas for?
-\
+
 * Purchase merch with bananas at https://onchainmonkey.com/merch
 * Purchase allowlist spots to upcoming mints
 * Play poker #🃏poker-club, fantasy sports #🏉fantasy-league, participate in #⚾box-breaks and #🙊trivia-night. - And many more! 
