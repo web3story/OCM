@@ -22,3 +22,7 @@ For example, the DAO may fund a project that extends the OCM brand into the VR/A
 \
 \
 In the early stages there will likely be overlap between the DAO and Metagood’s activities, but in the long term, the hope is that each plays a distinct and differentiated role in building the Monkeyverse.
+\
+\
+\
+![](img/ocmdao.png)
