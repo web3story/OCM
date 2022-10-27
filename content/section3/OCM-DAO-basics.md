@@ -1,6 +1,6 @@
 ---
 title: "OCM DAO Mechanics"
-subtitle: "(3 min read)"
+subtitle: (3 min read)
 date: 2022-10-06
 section: dao
 weight: 2
