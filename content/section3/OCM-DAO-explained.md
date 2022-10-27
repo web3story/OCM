@@ -1,6 +1,6 @@
 ---
 title: "OCM DAO Deeper Dive"
-subtitle: 7 min listen
+subtitle: (7 min listen)
 date: 2022-10-06
 section: dao
 weight: 3
