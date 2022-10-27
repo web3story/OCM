@@ -1,5 +1,6 @@
 ---
-title: "What is the OCM DAO? (2minread)"
+title: "What is the OCM DAO?"
+subtitle: (2 min read)
 date: 2022-10-06
 section: dao
 weight: 1
