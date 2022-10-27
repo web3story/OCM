@@ -1,12 +1,13 @@
 ---
-title: "OnChain Monkey Values (1minread)"
+title: "OnChain Monkey Values"
+subtitle: (1 min read)
 date: 2022-10-06
 section: mission
 weight: 3
 ---
 
 
-## What Does !RISE Mean?
+# What Does !RISE Mean?
 \
 RISE is an acronym for the four core values of OnChainMonkey:
 \
@@ -23,5 +24,5 @@ RISE is an acronym for the four core values of OnChainMonkey:
 •	Experimentation - we try new things to find better solutions
 /
 /
-## Our mission is to empower communities to be catalysts for positive collective action.
+# Our mission is to empower communities to be catalysts for positive collective action.
 
