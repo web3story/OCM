@@ -32,3 +32,7 @@ Any ETH wallet can submit a proposal, but voting is limited to OCM Genesis and K
 Rounds of funding every two weeks: 1 week for public review, followed by 1 week for OCM community voting 
 Intended to fund small, but promising projects that build OCM community and brand 
 Example: proposal to design and manufacture OCM card decks
+\
+\
+![](img/ocmprophouse.png)
+
