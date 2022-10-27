@@ -4,7 +4,7 @@ date: 2022-10-06
 section: mechanics
 weight: 4
 ---
-What is Karma?
+**What is Karma?**
 \
 \
 Karma is our neweest OnChainMonkey membership NFT, launched on June 29, 2022.
