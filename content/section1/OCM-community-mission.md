@@ -1,5 +1,6 @@
 ---
-title: "OCM Community Mission (12minlisten)"
+title: "OCM Community Mission"
+subtitle: (12 min listen)
 date: 2022-10-06
 section: mission
 weight: 4
