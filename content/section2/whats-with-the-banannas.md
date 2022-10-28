@@ -1,5 +1,6 @@
 ---
-title: "What's With The Bananas? (2minread)"
+title: "What's With The Bananas?"
+subtitle: (2 min read)
 date: 2022-10-06
 section: mechanics
 weight: 5
@@ -34,4 +35,8 @@ In addition the daily bananas from Discord and Twitter, there are a few other op
 * Make trades for bananas in #🤝banana-trading 
 * Work for bananas in #💼jobs-for-bananas
 * Bananas may be sent through the 🍌offchain-bananas channel using the /send-banana command.
+\
+\
+\
+![](img/ocmbananas.png)
 
