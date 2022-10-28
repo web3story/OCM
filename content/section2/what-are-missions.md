@@ -1,5 +1,6 @@
 ---
-title: "What Are OCM Missions? (2minread)"
+title: "What Are OCM Missions?"
+subtitle: (2 min read)
 date: 2022-10-06
 section: mechanics
 weight: 6
@@ -36,5 +37,9 @@ Rewards
 \
 Rewards can range from pieces to a puzzle, or even a Karma monkey itself! Rewards from one mission could be used in the next. 
 It seems like these monkeys are up to something big … Start your missions! 
+\
+\
+\
+![](img/ocmmissions.png)
 
 
