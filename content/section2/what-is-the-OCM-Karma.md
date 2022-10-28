@@ -1,5 +1,6 @@
 ---
-title: "What is the OCM Karma? (3minread)"
+title: "What is the OCM Karma?"
+subtitle: (3 min read)
 date: 2022-10-06
 section: mechanics
 weight: 4
@@ -24,3 +25,7 @@ Same incredible benefits as OCM Genesis holders, including
 * Access to our Banana ecosystem that benefits holders.
 * Virtual and IRL community events - like private events with our notable community. Past events included those with Woody Harrelson, Owen Wilson, Charlie Lee, Deepak Chopra.
 * Access to the Monkeyverse, and going on Monkey Missions 
+\
+\
+\
+![](img/ocmkarma.png)
