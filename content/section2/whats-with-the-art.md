@@ -1,5 +1,6 @@
 ---
-title: "What's with the art? I could draw that in 2 min! (2minread)"
+title: "What's with the art?"
+subtitle: (2 min read)
 date: 2022-10-06
 section: mechanics
 weight: 1
@@ -21,5 +22,8 @@ Conversely, when something is created off chain, the blockchain is the medium wh
 \
 \
 There were already on chain projects, and we wanted to try something a little different. As many people in the NFT world know, some of the most popular projects right now are profile picture projects (PFPs). However, only a few previous on chain projects are PFPs due to the complexity of creating an interesting collection of profile pictures from code. So we decided to take our shot at bridging those two things together, and even take it one step further. From what we can find, OnChainMonkey was the first PFP collection created all on chain in a single transaction. We’re proud of that.
+\
+\
+![](img/ocmart.png)
 
 
