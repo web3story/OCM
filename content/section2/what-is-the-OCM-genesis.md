@@ -1,5 +1,6 @@
 ---
-title: "What is the OCM Genesis? (1minread)"
+title: "What is the OCM Genesis?"
+subtitle: (1 min read)
 date: 2022-10-06
 section: mechanics
 weight: 3
