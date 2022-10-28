@@ -1,5 +1,6 @@
 ---
-title: "What is the OCM NFT? (2minread)"
+title: "What is the OCM NFT?"
+subtitle: (2 min read)
 date: 2022-10-06
 section: mechanics
 weight: 2
@@ -18,4 +19,7 @@ Genesis and Karma NFTs will provide membership into the OCM community, governanc
 \
 \
 Desserts are NFTs used to create a Karma NFT from your Genesis NFT. Each Genesis can eat one of each type of Dessert. The Desserts are burned and a new Karma is created. There are 3 types of Desserts, so up to 3 Karma can be created from a single Genesis. The Genesis is unchanged, so you would have 4 monkeys if your Genesis eats all 3 Desserts.
-
+\
+\
+\
+![](img/ocmmain.png)
