@@ -6,7 +6,7 @@ section: dao
 weight: 2
 ---
 
-Submitting Proposals
+**Submitting Proposals**
 \
 \
 The OCM DAO is actively taking proposal submissions through three distinct channels: Small Grants, Prop House, and OCM Proposals. Each channel is designed to support initiatives of a different size and scope, allowing a wide range of proposals to get the requisite attention and consideration they deserve from OCM members.
@@ -15,7 +15,7 @@ The OCM DAO is actively taking proposal submissions through three distinct chann
 Currently, proposals are accepted in “seasons” (typically 3 months in duration) that have a distinct focus “theme”, provided by Metagood, with funding coming from the OCM DAO. This is a way to generate early discussion and momentum around initiatives with common goals and is subject to change as the DAO becomes more self-sufficient.
 \
 \
-Small Grants 
+**Small Grants** 
 \
 \
 The OCM Small Grants Committee is a small, trusted group of four (4) community members elected by the community, plus one (1) Metagood team representative, who serve as volunteer representatives and dispense a flexible pool of funding (small grant) each season. The goal of the Small Grants program is to provide swift support for community initiatives that don’t need a full OCM Community membership vote, such as local gatherings, events or brand building experiments (or anything else, really!). This is the channel with the lowest proposal “requirements” and the fastest approval time.
@@ -25,7 +25,7 @@ Intended for immediate and uncomplicated aid in community building
 Example: meals/entertainment costs for an OCM IRL gathering in Los Angeles, monthly fees to support OCM community #poker-club play in ClubGG app
 \
 \
-Prop House
+**Prop House**
 \
 \
 1-10 ETH per proposal, X ETH total allocated per season (i.e. 50 ETH in S1) 
