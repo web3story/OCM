@@ -6,7 +6,7 @@ section: dao
 weight: 1
 ---
 
-What is OCM DAO?
+**What is OCM DAO?**
 \
 \
 The  (“decentralized autonomous organization”) is a community fund that is managed by OCM holders, rather than the Metagood team. The purpose of this fund is to leverage the power of the OCM community to grow and sustain efforts to “do well and do good” in the world. This is monkey business by, and for the monkeys!
