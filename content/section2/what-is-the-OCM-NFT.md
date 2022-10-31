@@ -6,7 +6,7 @@ section: mechanics
 weight: 2
 ---
 
-What is OnChainMonkey (OCM)?
+**What is OnChainMonkey (OCM)?**
 \
 \
 OnChainMonkey is an NFT community started by Metagood and the crypto industry veterans Bill Tai, Danny Yang, and Amanda Terry, with the purpose of doing well while doing good.
