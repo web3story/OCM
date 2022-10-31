@@ -6,7 +6,7 @@ section: mechanics
 weight: 3
 ---
 
-What is Genesis?
+**What is Genesis?**
 \
 \
 OCM Genesis is a piece of history. It is the first on-chain PFP collection created in a single transaction.
