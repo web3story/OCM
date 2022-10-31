@@ -7,7 +7,7 @@ weight: 3
 ---
 
 
-### What Does !RISE Mean?
+**What Does !RISE Mean?**
 \
 RISE is an acronym for the four core values of OnChainMonkey:
 \
